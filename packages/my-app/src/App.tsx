@@ -3,6 +3,7 @@ import { Button, ToolkitProvider } from '@jpmorganchase/uitk-core';
 import { SearchIcon } from '@jpmorganchase/uitk-icons';
 
 import './App.css';
+// import './Icon.css'; // <------ Add this for a workaround
 
 const App = (): JSX.Element => {
   const [selectedTheme, setSelectedTheme] = React.useState<'light' | 'dark'>(
