@@ -1,0 +1,14 @@
+{
+  "name": "my-app",
+  "private": true,
+  "modular": {
+    "type": "app"
+  },
+  "dependencies": {
+    "@jpmorganchase/uitk-core": "latest",
+    "@jpmorganchase/uitk-icons": "latest",
+    "@jpmorganchase/uitk-lab": "latest",
+    "@jpmorganchase/uitk-theme": "latest"
+  },
+  "version": "1.0.0"
+}
